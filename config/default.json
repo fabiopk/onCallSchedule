@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:123a456z@escalapelotas-wksjz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "8d6s4g8s67gr82c"
+}
